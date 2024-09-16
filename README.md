@@ -31,5 +31,5 @@ Please follow the steps below to run automated unit test to sanity check API end
 
 Note: currently, there are 6 tests to test all API endpoints except preview endpoint.
 
-1. go into Mujin_Final_Project folder
+1. go into the folder where the test file is located
 2. type the following command in terminal/command-prompt `python3 -m pytest`
